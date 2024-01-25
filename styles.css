@@ -1,0 +1,9 @@
+#productTable {
+    width: 100%;
+    font-size: 14px;
+    color: #141414;
+}
+
+#productTable th {
+    background-color: #85929E;
+}
